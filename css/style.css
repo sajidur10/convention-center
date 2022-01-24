@@ -10,15 +10,22 @@ body {
 .margin-hot{
     margin-top: -20px;
 }
+
 /* Media queries md*/
 @media only screen and (max-width:991px) {
     .carouse-img-h-w{
         height: 100%;
+    }
+    .accordion-w{
+        width: 100%;
     }
 }  
 /* Media queries lg*/
 @media only screen and (min-width:992px) {
     .carouse-img-h-w{
         width: 100%;
+    }
+    .accordion-w{
+        width: 50%;
     }
 }  
