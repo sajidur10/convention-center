@@ -1,0 +1,22 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+/* common style */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.button-color{
+    background-color: #f496d249
+    ;
+}
+/* Media queries md*/
+@media only screen and (max-width:991px) {
+    .carouse-img-h-w{
+        height: 100%;
+    }
+}  
+/* Media queries lg*/
+@media only screen and (min-width:992px) {
+    .carouse-img-h-w{
+        width: 100%;
+    }
+}  
