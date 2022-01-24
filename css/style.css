@@ -5,8 +5,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .button-color{
-    background-color: #f496d249
-    ;
+    background-color: #f496d249;
+}
+.margin-hot{
+    margin-top: -20px;
 }
 /* Media queries md*/
 @media only screen and (max-width:991px) {
